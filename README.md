@@ -1,3 +1,4 @@
+![Dashboard Preview](https://github.com/safaa-maker/healthcare-resource-utilization-analysis/blob/main/clinic%20resourse%20utilisation%20and%20patient%20analysis%20dashboard.png)
 # Clinic Resource Utilization & Patient Analysis
 
 ## 📌 Business Overview
