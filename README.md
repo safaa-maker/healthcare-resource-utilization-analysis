@@ -5,6 +5,10 @@
 This project presents an interactive healthcare operations dashboard built using **Looker Studio** and **Microsoft Excel**. The analysis evaluates clinic resource utilization, financial billing patterns, and patient demographic distribution across 40,000+ patient records to help healthcare administrators optimize staffing, bed capacity, and financial forecasting.
 
 ---
+## 📁 Data Source
+* **Dataset:** [Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) by Prasad Patil on Kaggle.
+* **Description:** A synthetic healthcare dataset containing 40,000+ patient records covering patient demographics, medical conditions, insurance providers, admission types, and billing amounts.
+
 
 ## 🛠️ Tools & Technologies Used
 * **Microsoft Excel:** Data cleaning, formatting validation, and metric logic verification.
